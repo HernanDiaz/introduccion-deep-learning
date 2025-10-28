@@ -6,6 +6,8 @@ Bienvenido/a a los **cuadernos interactivos** del libro
 Cada notebook corresponde a un capítulo del libro y permite **ejecutar el código directamente en Google Colab**, sin necesidad de instalar nada en tu ordenador.  
 Al final de cada capítulo también se incluye un **vídeo explicativo** asociado.
 
+Estos notebooks están pensados para acompañarte mientras estudias, experimentar y entender los modelos paso a paso.
+
 ---
 
 ## Cómo usar los notebooks
@@ -41,9 +43,34 @@ Al final de cada capítulo también se incluye un **vídeo explicativo** asociad
 | 19 | Deep Q-Networks | [Abrir en Colab](https://colab.research.google.com/github/hernandiaz/introduccion-deep-learning/blob/main/capitulo19.ipynb) | [Ver vídeo](#) |
 | 20 | Policy Gradient / Actor-Critic | [Abrir en Colab](https://colab.research.google.com/github/hernandiaz/introduccion-deep-learning/blob/main/capitulo20.ipynb) | [Ver vídeo](#) |
 
+> Nota: Los enlaces a vídeos se actualizarán cuando estén disponibles.
+
 ---
 
-## Contacto
+## 🧾 Licencia
+
+Este material (notebooks, código y contenido educativo) se distribuye bajo la licencia  
+**Creative Commons Attribution-NonCommercial (CC BY-NC 4.0)**.
+
+Esto significa que puedes:
+- Usar y compartir el material libremente para **docencia, estudio o apuntes personales**.
+- Adaptar o modificar los notebooks para fines educativos, siempre que se cite al autor original.
+
+Esto NO permite:
+- Usar el material con fines comerciales o lucrativos.
+- Redistribuirlo en productos comerciales sin permiso del autor.
+
+---
+
+## 📖 Cómo citar
+
+Si utilizas estos notebooks o el contenido del libro en tus clases o materiales educativos, por favor cita al autor de la siguiente manera:
+
+Hernán Díaz Rodríguez. *Introducción a Deep Learning: Algoritmos, Arquitecturas y Aplicaciones Prácticas en Python*. 2025. Disponible en: [https://github.com/hernandiaz/introduccion-deep-learning](https://github.com/hernandiaz/introduccion-deep-learning)
+
+---
+
+## 📬 Contacto
 
 Si detectas errores o tienes sugerencias de mejora, por favor escribe a:  
 📧 **hernan.diaz.rodriguez@gmail.com**
